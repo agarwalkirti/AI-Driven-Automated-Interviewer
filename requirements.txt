@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+faiss-cpu
+pytesseract
+pillow
+whisper
+torch
+python-dotenv
